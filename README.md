@@ -3,7 +3,7 @@ some fun projects for my favourite  site jandan.net
 
 ## Requirements
 - Python3
-- opencv-python
+- Pillow
 - selenium
 
 
